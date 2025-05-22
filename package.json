@@ -2,7 +2,7 @@
   "name": "batts-booking-buddy",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://batts-booking-buddy.github.io",
+  "homepage": "https://farstarc.github.io/batts-booking-buddy.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
